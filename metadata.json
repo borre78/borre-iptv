@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS IPTV",
+  "description": "Plataforma web cinematográfica de streaming IPTV compatible con Xtream Codes, listas M3U y APIs personalizadas como Netsky y Kaelus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
